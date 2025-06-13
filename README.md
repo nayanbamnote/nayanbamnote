@@ -5,17 +5,20 @@
 ###
 
 <div align="center">
-  <!-- First row: Your current stats -->
+  <!-- First row -->
   <img src="https://github-readme-stats.vercel.app/api?username=nayanbamnote&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanbamnote&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  
-  <!-- Second row: Streak stats -->
+
+  <!-- Second row (centered) -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=nayanbamnote&theme=dark&hide_border=false" height="150" alt="streak stats" />
-  
-  <!-- Third row: wide cards -->
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanbamnote&layout=compact&langs_count=8&theme=dracula&role=OWNER,COLLABORATOR" alt="Top Langs" height="185px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanbamnote&theme=dracula" alt="My github stats" height="185px"/>
+</div>
+
+<!-- Contribution Activity Graph -->
+<div align="center">
+  <br/>
+  <a href="https://github.com/nayanbamnote">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanbamnote&bg_color=transparent&color=7fa1f7&line=f77f7f&point=f7ab7f&area=true&hide_border=true" alt="nayanbamnote's GitHub activity graph" />
+  </a>
 </div>
 
 
